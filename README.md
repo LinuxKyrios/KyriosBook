@@ -6,4 +6,4 @@
 * PHP 7
 * MySQL Database
 * Bootstrap 5.0.2
-* HTML / CSS / JavaScript (quite obvious, right?)
+* HTML / CSS / JavaScript (quite obvious, right? c; )
